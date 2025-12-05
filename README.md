@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @varungaddalay-github
-- 👀 I’m interested in solving Data challenges
-- 🌱 I’m currently learning how to write clean code
-- 💞️ I’m looking to collaborate on Data Engineering Projects
+- 👋 Hi, I’m Varun Gaddalay. Currently working as a Senior Data Engineer in a Healthcare company.
+- 👀 I Solve Data challenges
 - 📫 How to reach me?
     linkedin - varungaddalay, email: varunkool59@gmail.com
 
