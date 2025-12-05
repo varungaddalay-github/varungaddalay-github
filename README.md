@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Varun Gaddalay. Currently working as a Senior Data Engineer in a Healthcare company.
-- 👀 I Solve Data challenges
 - 📫 How to reach me?
     linkedin - varungaddalay, email: varunkool59@gmail.com
 
